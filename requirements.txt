@@ -1,0 +1,5 @@
+openai==1.12.0
+opencv_python==4.8.0.74
+opencv_python_headless==4.8.1.78
+pygame==2.5.2
+Requests==2.31.0
