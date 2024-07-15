@@ -1,6 +1,8 @@
 # MovieLife
  Real time narrate your life with chatGPT
 
+[The Infinite Audio Book](https://www.lampysecurity.com/post/the-infinite-audio-book)
+
 ## Requirements
 
 - Python3
